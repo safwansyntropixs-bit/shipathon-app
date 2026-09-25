@@ -1,0 +1,26 @@
+{
+  "name": "pose-landmarker",
+  "version": "0.1.0",
+  "description": "Post Landmarker Module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": [
+    "react-native",
+    "expo",
+    "pose-landmarker",
+    "PoseLandmarker"
+  ],
+  "repository": "https://github.com/Skortan/replix-app",
+  "bugs": {
+    "url": "https://github.com/Skortan/replix-app/issues"
+  },
+  "author": "Skortan <safwan.skortan@gmail.com> (https://github.com/safwansyntropixs-bit)",
+  "license": "MIT",
+  "homepage": "https://github.com/Skortan/replix-app#readme",
+  "dependencies": {},
+  "peerDependencies": {
+    "expo": "*",
+    "react": "*",
+    "react-native": "*"
+  }
+}

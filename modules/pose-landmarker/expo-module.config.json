@@ -1,0 +1,9 @@
+{
+  "platforms": ["android", "apple"],
+  "apple": {
+    "modules": ["PoseLandmarkerModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.poselandmarker.PoseLandmarkerModule"]
+  }
+}
